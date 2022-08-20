@@ -13,4 +13,7 @@ Retrofit
 Moshi, Gson, Jackson
 Android studio Shorcuts
 Builders, Singletons, Factory Methods
+-- Recources
+https://androidweekly.net/
+
 
