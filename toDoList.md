@@ -2,7 +2,7 @@ https://github.com/skydoves/android-developer-roadmap
 https://apptractor.ru/learn/plan-izucheniya-android-razrabotki-dlya-nachinayushhih.html
 
 ## Android concepts
-- BroadcastReceiver, Service, Activity, Content Provider
+- BroadcastReceiver[theory+], Service, Activity, Content Provider
 - Data Save
 - Rest, Post, Get
 - Retrofit
